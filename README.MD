@@ -1,8 +1,8 @@
-# GitHub Project :cherry_blossom:
+# GitHub Project :cherry_blossom::tulip::bouquet:
 This is my first tutorial project creating repository on GitHub
 
-## Content
+## Content:sunflower::hibiscus::rose:
 
 
 
-## Instructions :octocat:
+## Instructions :octocat::cherry_blossom:
